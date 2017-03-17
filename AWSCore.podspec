@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = 'QNAWSCore'
+  s.name         = 'AWSCore'
   s.version      = '1.0.0'
   s.summary      = 'Amazon Web Services SDK for iOS.'
 
